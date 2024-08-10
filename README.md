@@ -5,10 +5,12 @@ Project ini merupakan pembuatan website profile diri saya, Darren Mansyl.
 Kakas yang digunakan pada project ini adalah pure HTML dan CSS.
 
 # Cara menjalankan program
-Klik link berikut untuk mengakses website.
+Klik 
+[Profile Website](https://usernamedarren.github.io/SPARTA-DAY-1/) untuk mengakses website.
 
 # Bonus
-Bonus tidak dikerjakan.
+Bonus parsial :
+- Deployment
 
 # Kesulitan
 Kurang mengerti dalam penggunaan framework. Solusi sementara menggunakan pure HTML dan CSS.
